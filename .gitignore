@@ -1,0 +1,12 @@
+# Datos: no se versionan (ficheros en bruto, intermedios y la base SQLite)
+data/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
